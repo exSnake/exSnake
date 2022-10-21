@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Daniele, a full-time full-stack freelance developer 👨‍💻 working remotely since 2012 🚀</div>  
