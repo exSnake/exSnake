@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Flutter and Swift  
   
 
-- ❓ Ask me about anything related to C#, Java, Laravel  
+- ❓ Ask me about anything related to C#, Java, PHP/Laravel  
   
 
 - ⚡Motivation: Your future is bright.  
