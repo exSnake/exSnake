@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Daniele, a full-time full-stack freelance developer 👨‍💻 working remotely since 2012 🚀</div>  
+### <div align="center">I'm Daniele, a full-time full-stack developer 👨‍💻 working remotely since 2012 🚀</div>  
   
 
 - 🔭 I’m currently working for LuisaViaRoma
