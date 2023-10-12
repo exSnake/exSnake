@@ -4,13 +4,13 @@
 ### <div align="center">I'm Daniele, a full-time full-stack freelance developer 👨‍💻 working remotely since 2012 🚀</div>  
   
 
-- 🔭 I’m currently working on bunch of private project  
+- 🔭 I’m currently working for LuisaViaRoma
   
 
-- 🌱 I’m currently learning Flutter and Swift  
+- 🌱 Learning Gitops, Continuous Development 
   
 
-- ❓ Ask me about anything related to C#, Java, PHP/Laravel  
+- ❓ Ask me about anything related to C#, Java, PHP/Laravel, Vue
   
 
 - ⚡Motivation: Your future is bright.  
